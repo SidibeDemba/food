@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843182479411",
+    "project_id": "fasfoodd",
+    "storage_bucket": "fasfoodd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843182479411:android:d822ac0ae1b3368abdab46",
+        "android_client_info": {
+          "package_name": "com.example.fasfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUzPaBNWLOpcW8sejXcbjnLFvnCiNVao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
